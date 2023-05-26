@@ -1,0 +1,13 @@
+{
+  "name": "@rspack-repro/lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource-variable/mulish": "^5.0.2",
+    "@fontsource/gentium-book-basic": "^5.0.0"
+  }
+}

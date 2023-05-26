@@ -101,3 +101,14 @@ typings/
 
 # TernJS port file
 .tern-port
+
+build
+
+# yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
